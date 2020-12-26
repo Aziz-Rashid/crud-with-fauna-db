@@ -74,7 +74,7 @@ export default function Home() {
         <CssBaseline />
         <Container
           maxWidth="sm">
-          <h1 style={{ color: 'white' }}>CRUD APP with Faunadb</h1>
+          <h1 style={{ color: 'black' }}>CRUD APP with Faunadb</h1>
           <Formik
             enableReinitialize={true}
             initialValues={{
